@@ -4,10 +4,13 @@
 ## Markdown
 
 **Negrito**
+Usar ** ou __
 
 *Itálico*
+Usar * ou _
 
 ~~Sublinhado~~
+Usar ~~
 
  1. Lista enumerada
  1. Colocar qualquer número e um "."
