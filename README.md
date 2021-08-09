@@ -1,7 +1,14 @@
 # Hello, World!
- Estudo sobre versionamento
+ Estudo sobre versionamento, git e github no geral
 
 ## Markdown
+
+**Negrito**
+
+*Itálico*
+
+~~Sublinhado~~
+
  1. Lista enumerada
  1. Colocar qualquer número e um "."
 
