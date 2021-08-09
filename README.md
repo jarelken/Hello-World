@@ -1,2 +1,3 @@
-# Hello World
- Treino versionamento
+# Hello World!
+ Estudo sobre versionamento
+
