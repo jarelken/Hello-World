@@ -4,12 +4,15 @@
 ## Markdown
 
 **Negrito**
+
 Usar ** ou __
 
 *Itálico*
+
 Usar * ou _
 
 ~~Sublinhado~~
+
 Usar ~~
 
  1. Lista enumerada
