@@ -21,9 +21,9 @@ Usar ~~
  * Lista demarcada
  * Colocar "*" ou "-"
 
- - [ ]Lista de tarefas
- - [ ]Colocar "- []"
- - [x]Colocar "-[x]" para finalizar tarefa
+ - [ ] Lista de tarefas
+ - [ ] Colocar "- []"
+ - [x] Colocar "-[x]" para finalizar tarefa
 
  [Links usando "[]()"](https://google.com)
  
