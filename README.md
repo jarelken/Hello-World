@@ -22,8 +22,8 @@ Usar ~~
  * Colocar "*" ou "-"
 
  - [ ] Lista de tarefas
- - [ ] Colocar "- []"
- - [x] Colocar "-[x]" para finalizar tarefa
+ - [ ] Colocar "- [ ]"
+ - [x] Colocar "- [x]" para finalizar tarefa
 
  [Links usando "[]()"](https://google.com)
  
